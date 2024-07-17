@@ -1,0 +1,307 @@
+body {
+    background-color: #ebe3ce;
+    overflow-x: hidden;
+}
+
+/*Navbar*/
+#navbar {
+    margin: 3%;
+}
+
+.navbar {
+    background-color: #142131;
+    border-radius: 25px;
+}
+
+.navbar-brand {
+    font-family: "DM Serif Display", serif;
+}
+
+.navbar-sign {
+    color: #12ba9c;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+
+#nav-link {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.sign-up-btn {
+    text-align: center;
+}
+
+#nav-link :hover {
+    color: #12ba9c;
+    transition: 0.3s;
+}
+
+/*Navbar End*/
+.start-heading {
+    padding: 24px
+}
+
+h1 {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+}
+
+.main-heading {
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+
+}
+
+h2 {
+    font-family: "Playfair", serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 100;
+}
+
+h4 {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+h5 {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: #162a38;
+}
+
+p {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+/*Heroes section*/
+.btn-explore {
+    background-color: #fc570d;
+    color: #ebe3ce;
+    border: none;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.see-menu {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: black;
+}
+
+
+.book-table {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: large;
+}
+
+/*Heroes Section End*/
+
+/*Date form*/
+.delicious {
+    margin-top: 80px;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.food-h2 {
+    margin-bottom: 30px;
+}
+
+.book-container {
+    background-color: #fff;
+    border-radius: 25px;
+    padding: 20px;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.row {
+    align-items: center;
+}
+
+.form-control {
+    background-color: #ebe3ce;
+    border-radius: 15px;
+    padding: 30px;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.form-group {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.btn-availability {
+    background-color: #12ba9c;
+    color: #ebe3ce;
+    border-radius: 15px;
+    padding: 15px;
+    border: none;
+    font-family: "Lexend", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+#btn-check-availability {
+    text-align: center;
+    padding-top: 10px;
+}
+
+/*Date form section End*/
+
+/*Food categories*/
+.card {
+    border-radius: 25px;
+}
+
+#meat {
+    width: 45%;
+    height: 45%;
+    margin: auto;
+}
+
+#fish {
+    width: 45%;
+    height: 45%;
+    margin: auto;
+}
+
+#drink {
+    width: 45%;
+    height: 45%;
+    margin: auto;
+}
+
+.card-title {
+    font-family: "Playfair", serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+#read-more {
+    background-color: #fc570d;
+    color: #ebe3ce;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.food-read-more {
+    text-align: center;
+}
+
+.more {
+    text-align: center;
+}
+
+/*Food categories End*/
+
+/*End section*/
+.COVID-19 {
+    color: #12ba9c;
+    margin-top: 80px;
+}
+
+.Table-image {
+    width: 10%;
+    height: 15%;
+    float: right;
+}
+
+.Table-image2 {
+    width: 10%;
+    height: 15%;
+    float: left;
+}
+
+#read-more-next-page {
+    background-color: #6ab99c;
+    border: none;
+    color: #ebe3ce;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin: auto;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/*End section End*/
+
+@media screen and (max-width: 542px) {
+    .main-heading {
+        font-size: 3rem;
+    }
+
+    .heading-2 {
+        font-size: 0.8rem;
+    }
+
+    .loream {
+        font-size: 0.6rem;
+    }
+
+    .m-5 {
+        margin: 1rem !important;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .delicious {
+        margin-top: 20px;
+    }
+
+    .COVID-19 {
+        color: #12ba9c;
+        margin-top: 30px;
+    }
+}

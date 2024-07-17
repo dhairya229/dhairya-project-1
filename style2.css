@@ -1,0 +1,202 @@
+body {
+    background-color: #ebe3ce;
+}
+
+.chef-section {
+    background-color: #fdf7f0;
+    border-radius: 40px;
+    padding: 30px;
+    margin: 30px;
+    margin: auto;
+}
+
+.btn-read-more {
+    background-color: #ff6f3c;
+    color: #ebe3ce;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+
+h1 {
+    font-family: "Playfair", serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 100;
+    color: #162a38;
+
+}
+
+h2 {
+    font-family: "DM Serif Display", serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+h4 {
+    color: #12ba9c;
+    font-family: "Lexend", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h5 {
+    color: #f55d38;
+    font-family: "Lexend", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    margin-top: 3%;
+}
+
+h3 {
+    font-family: "DM Serif Display", serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+p {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+/*comments*/
+
+.testimonial-card {
+    background-color: #fdf7f0;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+}
+
+.Steve {
+    margin: 0 auto;
+
+}
+
+.testimonial-card img {
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.testimonial-content {
+    flex: 1;
+}
+
+.testimonial-content h5 {
+    font-family: "DM Serif Display", serif;
+    font-weight: bold;
+    font-style: normal;
+    color: #162a38;
+
+}
+
+.testimonial-content p {
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.testimonial-rating {
+    color: #ff6f3c;
+}
+
+.testimonial-date {
+    font-size: 14px;
+    color: #bbb;
+}
+
+
+
+/*send message button*/
+
+#send {
+    background-color: #12ba9c;
+    color: #162a38;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.Text {
+    text-align: center;
+}
+
+/*form*/
+
+#comment {
+    border-radius: 20px;
+    background-color: rgba(209, 194, 165, 255);
+}
+
+#mail {
+    background-color: rgba(209, 194, 165, 255);
+}
+
+#name {
+    background-color: rgba(209, 194, 165, 255);
+}
+
+/*footer*/
+
+#footer {
+    background-color: #f99d30;
+}
+
+.instagram {
+    color: #fff;
+}
+
+.facebook {
+    color: #fff;
+}
+
+.youtube {
+    color: #fff;
+}
+
+.What {
+    color: #162a38;
+}
+
+.About {
+    color: #162a38;
+}
+
+#about {
+    color: #fff;
+}
+
+#what {
+    color: #fff;
+}
+
+#Sign-up {
+    color: #fff;
+}
+
+#mail-footer {
+    background-color: #f99d30;
+    border-color: #162a38;
+}
+
+#icon {
+    width: 80%;
+}
